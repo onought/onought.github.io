@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onought.github.io/sitemap.html.gz
+Sitemap: https://onought.github.io/app/sitemap.html.gz
+Sitemap: https://onought.github.io/assets/sitemap.html.gz
+Sitemap: https://onought.github.io/css/sitemap.html.gz
+Sitemap: https://onought.github.io/includes/sitemap.html.gz
+Sitemap: https://onought.github.io/item/sitemap.html.gz
+Sitemap: https://onought.github.io/src/sitemap.html.gz
